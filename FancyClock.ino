@@ -10,8 +10,8 @@
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
-const char *ssid     = "BABAK";
-const char *password = "1374138319952004bb";
+const char *ssid     = "YOUR SSID";
+const char *password = "YOUR PASSWORD";
 
 const long utcOffsetInSeconds = 12600;
  int hou;
