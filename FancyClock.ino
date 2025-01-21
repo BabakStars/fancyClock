@@ -13,7 +13,7 @@
 const char *ssid     = "YOUR SSID";
 const char *password = "YOUR PASSWORD";
 
-const long utcOffsetInSeconds = 12600;
+const long utcOffsetInSeconds = TIME DIFFERENCE;  // TIME DIFFERENCE *60 *60
  int hou;
  int minutess;
 
